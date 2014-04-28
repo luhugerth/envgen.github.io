@@ -1,0 +1,21 @@
+body { padding-top: 200px; }
+
+.navbar {
+    background-color: #FFF; 
+    border: 0px; /* override bootstrap default */
+}
+
+#header {
+    border-bottom: 3px solid;
+    border-color: #080808;
+}
+
+#menu {
+    padding-top: 60px;
+}
+
+.navbar a {
+    color: #333;
+    text-transform: uppercase;
+    font-size: 20px;
+}
