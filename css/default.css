@@ -1,21 +1,25 @@
 body { padding-top: 200px; }
 
-.navbar {
-    background-color: #FFF; 
+.navbar{
     border: 0px; /* override bootstrap default */
+    height: auto;
 }
 
-#header {
+#menu {
+    padding-top: 80px;
+}
+
+#header-delimiter {
     border-bottom: 3px solid;
     border-color: #080808;
 }
 
-#menu {
-    padding-top: 60px;
+.logo {
+    max-height: 100px;
 }
 
-.navbar a {
+#menu a {
     color: #333;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 19px;
 }
