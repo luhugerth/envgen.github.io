@@ -5,6 +5,10 @@ body { padding-top: 200px; }
     height: auto;
 }
 
+.navbar-default {
+    background-color: transparent;
+}
+
 #menu {
     padding-top: 80px;
 }
