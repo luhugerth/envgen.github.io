@@ -1,4 +1,8 @@
-body { padding-top: 200px; }
+body { padding-top: 0px; }
+
+#menu-background {
+    background-image: "/images/14_Sweden26.2.9-2.9-2.JPG";
+}
 
 .navbar{
     border: 0px; /* override bootstrap default */
@@ -15,7 +19,7 @@ body { padding-top: 200px; }
 
 #header-delimiter {
     border-bottom: 3px solid;
-    border-color: #080808;
+    border-color: #FFF;
 }
 
 .logo {
@@ -23,7 +27,7 @@ body { padding-top: 200px; }
 }
 
 #menu a {
-    color: #333;
+    color: #FFF;
     text-transform: uppercase;
     font-size: 19px;
 }
